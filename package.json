@@ -38,5 +38,7 @@
   "pre-commit": [
     "test"
   ],
-  "bin": {}
+  "bin": {
+    "wxxn":"bin/wxxftsh-nodes.js"
+  }
 }
