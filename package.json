@@ -8,7 +8,8 @@
     "sprintf": "latest",
     "stream-browserify": "^1.0.0",
     "uglify-js": "^2.4.21",
-    "underscore": "latest"
+    "underscore": "latest",
+    "jasmine-node": "~2"
   },
   "devDependencies": {
     "browserify": "latest",
